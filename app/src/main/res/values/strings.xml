@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">login_windows</string>
+    <string name="username_string">Enter your username</string>
+    <string name="password_string">Enter your password</string>
+    <string name="login_string">Log in</string>
+</resources>
